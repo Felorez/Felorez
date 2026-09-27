@@ -7,6 +7,3 @@
   3 Years of Experience · 30+ Programming Languages
 </p>
 
-<p align="center">
-  <sub>Animation based on the <a href="https://www.youtube.com/watch?v=97YBoOR1-Kk">Lords of the Fallen II announcement trailer</a> by CI Games.</sub>
-</p>
