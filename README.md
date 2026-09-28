@@ -23,25 +23,39 @@ Python · JavaScript · TypeScript · Go · C · C++ · Lua · C# · Java · Kot
 
 ### Web & UI
 
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,threejs,tailwind,sass,vite,jquery,flutter&amp;perline=9" alt="React, Vue, Next.js, Three.js, Tailwind CSS, Sass / SCSS, Vite, jQuery, Flutter" />
+
 React · Vue · Next.js · Three.js · Tailwind CSS · Sass / SCSS · Vite · jQuery · Flutter
 
 ### Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,dotnet&amp;perline=9" alt="Node.js, Express.js, FastAPI, Django, Flask, ASP.NET Core" />
 
 Node.js · Express.js · FastAPI · Django · Flask · ASP.NET Core
 
 ### Data & AI
 
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv&amp;perline=9" alt="TensorFlow, scikit-learn, OpenCV" />
+
+![NumPy](https://img.shields.io/badge/NumPy-374151?style=flat-square) ![Matplotlib](https://img.shields.io/badge/Matplotlib-374151?style=flat-square)
+
 TensorFlow · NumPy · Matplotlib · scikit-learn · OpenCV
 
 ### Databases & Services
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,firebase,prisma&amp;perline=9" alt="PostgreSQL, MySQL, SQLite, Supabase, Firebase, Prisma" />
 
 PostgreSQL · MySQL · SQLite · Supabase · Firebase · Prisma
 
 ### Deployment & Infrastructure
 
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,git&amp;perline=9" alt="Docker, Kubernetes, Nginx, Git" />
+
 Docker · Kubernetes · Nginx · Git
 
 ### Games & Creative Tools
+
+<img src="https://skillicons.dev/icons?i=unity,unreal,godot,gamemakerstudio,blender&amp;perline=9" alt="Unity, Unreal Engine, Godot, GameMaker, Blender" />
 
 Unity · Unreal Engine · Godot · GameMaker · Blender
 
