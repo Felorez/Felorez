@@ -35,9 +35,7 @@ Node.js · Express.js · FastAPI · Django · Flask · ASP.NET Core
 
 ### Data & AI
 
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv&amp;perline=9" alt="TensorFlow, scikit-learn, OpenCV" />
-
-![NumPy](https://img.shields.io/badge/NumPy-374151?style=flat-square) ![Matplotlib](https://img.shields.io/badge/Matplotlib-374151?style=flat-square)
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv&amp;perline=9" alt="TensorFlow, scikit-learn, OpenCV" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" height="48" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" height="48" />
 
 TensorFlow · NumPy · Matplotlib · scikit-learn · OpenCV
 
