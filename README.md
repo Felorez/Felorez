@@ -13,9 +13,8 @@ I love creativity. **CREATIVITY. CREATIVITY. CREATIVITY.** I've followed whateve
 
 ## Languages
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,go,c,cpp,lua,cs,java,kotlin&amp;perline=9" alt="Python, JavaScript, TypeScript, Go, C, C++, Lua, C#, Java, Kotlin" />
-
 <p>
+<img src="https://skillicons.dev/icons?i=py,js,ts,go,c,cpp,lua,cs,java,kotlin&amp;perline=10" alt="Python, JavaScript, TypeScript, Go, C, C++, Lua, C#, Java, Kotlin" />
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_assembly.svg" alt="ASM" width="48" height="48" />
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_luau.svg" alt="Luau" width="48" height="48" />
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_sql.svg" alt="SQL" width="48" height="48" />
