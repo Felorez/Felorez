@@ -13,7 +13,7 @@ I love creativity. **CREATIVITY. CREATIVITY. CREATIVITY.** I've followed whateve
 
 ## Languages
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,go,c,cpp,lua,cs,java,kotlin,php,dart,ruby,rust,perl,bash,swift&amp;perline=9" alt="Python, JavaScript, TypeScript, Go, C, C++, Lua, C#, Java, Kotlin, PHP, Dart, Ruby, Rust, Perl, Bash, Swift" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,go,c,cpp,lua,cs,java,kotlin&amp;perline=9" alt="Python, JavaScript, TypeScript, Go, C, C++, Lua, C#, Java, Kotlin" />
 
 ![TASM](https://img.shields.io/badge/TASM-374151?style=flat-square) ![MASM](https://img.shields.io/badge/MASM-374151?style=flat-square) ![FASM](https://img.shields.io/badge/FASM-374151?style=flat-square) ![Luau](https://img.shields.io/badge/Luau-374151?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-374151?style=flat-square) ![GDScript](https://img.shields.io/badge/GDScript-374151?style=flat-square) ![VBA](https://img.shields.io/badge/VBA-374151?style=flat-square)
 
