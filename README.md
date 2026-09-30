@@ -15,7 +15,17 @@ I love creativity. **CREATIVITY. CREATIVITY. CREATIVITY.** I've followed whateve
 
 <img src="https://skillicons.dev/icons?i=py,js,ts,go,c,cpp,lua,cs,java,kotlin&amp;perline=9" alt="Python, JavaScript, TypeScript, Go, C, C++, Lua, C#, Java, Kotlin" />
 
-![TASM](https://img.shields.io/badge/TASM-374151?style=flat-square) ![MASM](https://img.shields.io/badge/MASM-374151?style=flat-square) ![FASM](https://img.shields.io/badge/FASM-374151?style=flat-square) ![Luau](https://img.shields.io/badge/Luau-374151?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-374151?style=flat-square) ![GDScript](https://img.shields.io/badge/GDScript-374151?style=flat-square) ![VBA](https://img.shields.io/badge/VBA-374151?style=flat-square)
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_assembly.svg" alt="TASM" width="48" height="48" /><br />TASM</td>
+<td align="center"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_assembly.svg" alt="MASM" width="48" height="48" /><br />MASM</td>
+<td align="center"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_assembly.svg" alt="FASM" width="48" height="48" /><br />FASM</td>
+<td align="center"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_luau.svg" alt="Luau" width="48" height="48" /><br />Luau</td>
+<td align="center"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_sql.svg" alt="SQL" width="48" height="48" /><br />SQL</td>
+<td align="center"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_gdscript.svg" alt="GDScript" width="48" height="48" /><br />GDScript</td>
+<td align="center"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vba.svg" alt="VBA" width="48" height="48" /><br />VBA</td>
+</tr>
+</table>
 
 ## Technologies
 
