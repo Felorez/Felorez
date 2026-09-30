@@ -17,13 +17,11 @@ I love creativity. **CREATIVITY. CREATIVITY. CREATIVITY.** I've followed whateve
 
 <table>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_assembly.svg" alt="TASM" width="48" height="48" /><br />TASM</td>
-<td align="center"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_assembly.svg" alt="MASM" width="48" height="48" /><br />MASM</td>
-<td align="center"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_assembly.svg" alt="FASM" width="48" height="48" /><br />FASM</td>
-<td align="center"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_luau.svg" alt="Luau" width="48" height="48" /><br />Luau</td>
-<td align="center"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_sql.svg" alt="SQL" width="48" height="48" /><br />SQL</td>
-<td align="center"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_gdscript.svg" alt="GDScript" width="48" height="48" /><br />GDScript</td>
-<td align="center"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vba.svg" alt="VBA" width="48" height="48" /><br />VBA</td>
+<td align="center"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_assembly.svg" alt="ASM" width="48" height="48" /><br />TASM MASM FASM</td>
+<td align="center"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_luau.svg" alt="Luau" width="48" height="48" /></td>
+<td align="center"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_sql.svg" alt="SQL" width="48" height="48" /></td>
+<td align="center"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_gdscript.svg" alt="GDScript" width="48" height="48" /></td>
+<td align="center"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vba.svg" alt="VBA" width="48" height="48" /></td>
 </tr>
 </table>
 
