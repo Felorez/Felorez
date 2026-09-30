@@ -20,7 +20,7 @@ I love creativity. **CREATIVITY. CREATIVITY. CREATIVITY.** I've followed whateve
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_sql.svg" alt="SQL" width="48" height="48" />
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_gdscript.svg" alt="GDScript" width="48" height="48" />
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vba.svg" alt="VBA" width="48" height="48" /><br />
-TASM MASM FASM
+<kbd>TASM</kbd> <kbd>MASM</kbd> <kbd>FASM</kbd>
 </p>
 
 ## Technologies
